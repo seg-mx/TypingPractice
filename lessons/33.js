@@ -5,7 +5,7 @@ let lesson =
     'Lucille and Randall cleaned their plates in the candlelight.\n' +
     'Leland alleged that "Gilligan\'s Island" is a little illogical.\n' +
     "Sinead O'Connor's latest single isn't going to appall Russell.\n" +
-    'Colonial landlords near London once said "ain\'t," not "isn\'t.\n" +\n' +
+    'Colonial landlords near London once said "ain\'t," not "isn\'t."\n' +
     'Caroline D\'Arc is an enrollee at that college in Philadelphia.\n' +
     'Didn\'t she hear, Cal used lots o\' laterals, in the last seconds.\n' +
     "Eileen O'Hare and Pat O'Shea still shouldn't tell Leslie O'Neill.\n" +
