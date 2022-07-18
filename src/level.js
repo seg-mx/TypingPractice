@@ -1,4 +1,4 @@
-const {black, green, reset, gray, bgRed, bgMagenta, bgGreen} = require('./colors.js');
+const {black, green, reset, gray, bgRed, bgMagenta, bgGreen, white} = require('./colors.js');
 
 function clear() {
     console.log('\033[2J');
@@ -69,7 +69,7 @@ class Level {
         }
 
         let remaining = this.lesson.slice(this.input.length).replaceAll('\n', '←\n').replaceAll('µ', ' \n');
-        text += bgMagenta + black + remaining + reset;
+        text += bgMagenta + white + remaining + reset;
         
         console.log(text);
     }
